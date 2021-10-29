@@ -2,7 +2,8 @@
     padding: auto;
     background-color: darkred;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    height: 420px;  width: 650px;
+    height: 200px;  width: 400px;
+
        }
 
 .key{
@@ -11,4 +12,16 @@
     height: 12px; 
     width: 12px;
     padding: 40px, 50px;
+    text-align: center;
 }       
+
+.przycisk{
+    border: 3px, deeppink;
+    background-color: floralwhite;
+    height: 120px; 
+    width: 120px;
+    padding: 40px, 50px;
+    text-align: center;
+    font-size: 12px;
+
+}
